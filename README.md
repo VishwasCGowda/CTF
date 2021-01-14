@@ -1,4 +1,4 @@
-OW TO DOWNLOAD
+HOW TO DOWNLOAD
 -------------------
 
 <pre><code>
